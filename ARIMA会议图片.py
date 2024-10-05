@@ -277,7 +277,7 @@ for i in l:
 
         predictions = predictions[15:]
         stock = i
-        model2 = 'Galformer'
+        model2 = 'ARIMA'
         csv_path = 'C:/lyx/learning/期刊论文/程序结果/对比图表/' + stock + '/' + model2 + '.xls'
         df = pd.DataFrame(predictions)
         df.columns.name = None
