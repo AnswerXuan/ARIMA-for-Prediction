@@ -1,4 +1,4 @@
 # ARIMA-for-Prediction
 Achieve a single step forecast of the stock by Python
 
-![image](https://www.helloimg.com/i/2024/10/05/6700a680b1268.png)
+![image](https://s2.loli.net/2024/10/12/iSvMw9C1gPBLFmn.png)
